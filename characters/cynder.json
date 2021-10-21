@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "cynder idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				70,
+				14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cynder left"
+		},
+		{
+			"offsets": [
+				0,
+				11
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cynder right"
+		},
+		{
+			"offsets": [
+				-10,
+				24
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cynder up"
+		},
+		{
+			"offsets": [
+				-3,
+				-9
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cynder down"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/cynder_assets",
+	"position": [
+		-140,
+		-170
+	],
+	"healthicon": "cynder",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}

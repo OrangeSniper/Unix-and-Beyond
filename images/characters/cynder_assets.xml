@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cynder_assets.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cynder down0000" x="1935" y="2968" width="978" height="973"/>
+	<SubTexture name="cynder down0001" x="2913" y="2968" width="978" height="973"/>
+	<SubTexture name="cynder down0002" x="3891" y="2968" width="978" height="973"/>
+	<SubTexture name="cynder down0003" x="4869" y="3003" width="978" height="973"/>
+	<SubTexture name="cynder idle0000" x="1021" y="1002" width="987" height="983"/>
+	<SubTexture name="cynder idle0001" x="2008" y="1002" width="987" height="983"/>
+	<SubTexture name="cynder idle0002" x="2995" y="1002" width="987" height="983"/>
+	<SubTexture name="cynder idle0003" x="3982" y="1002" width="987" height="983"/>
+	<SubTexture name="cynder idle0004" x="1021" y="1985" width="987" height="983"/>
+	<SubTexture name="cynder idle0005" x="0" y="1999" width="987" height="983"/>
+	<SubTexture name="cynder idle0006" x="2008" y="1985" width="987" height="983"/>
+	<SubTexture name="cynder idle0007" x="2995" y="1985" width="987" height="983"/>
+	<SubTexture name="cynder idle0008" x="3982" y="1985" width="987" height="983"/>
+	<SubTexture name="cynder left0000" x="0" y="0" width="1093" height="1002"/>
+	<SubTexture name="cynder left0001" x="1093" y="0" width="1093" height="1002"/>
+	<SubTexture name="cynder left0002" x="2186" y="0" width="1093" height="1002"/>
+	<SubTexture name="cynder left0003" x="3279" y="0" width="1093" height="1002"/>
+	<SubTexture name="cynder left0004" x="4372" y="0" width="1093" height="1002"/>
+	<SubTexture name="cynder right0000" x="5465" y="0" width="1021" height="997"/>
+	<SubTexture name="cynder right0001" x="6486" y="0" width="1021" height="997"/>
+	<SubTexture name="cynder right0002" x="5465" y="997" width="1021" height="997"/>
+	<SubTexture name="cynder right0003" x="6486" y="997" width="1021" height="997"/>
+	<SubTexture name="cynder right0004" x="0" y="1002" width="1021" height="997"/>
+	<SubTexture name="cynder up0000" x="4969" y="1994" width="948" height="1009"/>
+	<SubTexture name="cynder up0001" x="5917" y="1994" width="948" height="1009"/>
+	<SubTexture name="cynder up0002" x="6865" y="1994" width="948" height="1009"/>
+	<SubTexture name="cynder up0003" x="987" y="2968" width="948" height="1009"/>
+	<SubTexture name="cynder up0004" x="0" y="2982" width="948" height="1009"/>
+</TextureAtlas>

@@ -1,0 +1,39 @@
+{
+	"storyName": "vs. cynder",
+	"hideFreeplay": false,
+	"weekBackground": "no",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"cynder",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"sparks fly",
+			"cynder",
+			[
+				146,
+				0,
+				0
+			]
+		],
+		[
+			"hot flash",
+			"cynder",
+			[
+				146,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "vs cynder"
+}
