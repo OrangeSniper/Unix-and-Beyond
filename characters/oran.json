@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cynder idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				70,
+				14
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "cynder left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				11
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "cynder right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-10,
+				24
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "cynder up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-3,
+				-9
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "cynder down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oran_assets",
+	"position": [
+		-140,
+		-170
+	],
+	"healthicon": "",
+	"flip_x": false,
+	"healthbar_colors": [
+		96,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 0.8
+}
