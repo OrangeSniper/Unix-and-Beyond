@@ -2,65 +2,65 @@
 	"animations": [
 		{
 			"offsets": [
-				0,
-				0
+				-30,
+				20
 			],
-			"loop": false,
+			"indices": [],
 			"fps": 24,
 			"anim": "idle",
+			"loop": false,
+			"name": "oran idle"
+		},
+		{
+			"offsets": [
+				-40,
+				20
+			],
 			"indices": [],
-			"name": "cynder idle"
-		},
-		{
-			"loop": false,
-			"offsets": [
-				70,
-				14
-			],
+			"fps": 24,
 			"anim": "singLEFT",
-			"fps": 24,
-			"name": "cynder left",
-			"indices": []
+			"loop": false,
+			"name": "oran left"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				0,
-				11
+				-4,
+				13
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "cynder right",
-			"indices": []
+			"loop": false,
+			"name": "oran right"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-10,
-				24
+				-27,
+				15
 			],
+			"indices": [],
+			"fps": 24,
 			"anim": "singUP",
-			"fps": 24,
-			"name": "cynder up",
-			"indices": []
+			"loop": false,
+			"name": "oran up"
 		},
 		{
-			"loop": false,
 			"offsets": [
-				-3,
-				-9
+				-25,
+				16
 			],
-			"anim": "singDOWN",
+			"indices": [],
 			"fps": 24,
-			"name": "cynder down",
-			"indices": []
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "oran down"
 		}
 	],
 	"no_antialiasing": false,
 	"image": "characters/oran_assets",
 	"position": [
-		-140,
-		-170
+		-280,
+		-40
 	],
 	"healthicon": "",
 	"flip_x": false,
