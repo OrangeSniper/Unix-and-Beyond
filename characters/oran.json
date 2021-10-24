@@ -1,78 +1,78 @@
 {
 	"animations": [
 		{
+			"loop": false,
 			"offsets": [
-				-30,
-				20
+				0,
+				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "idle",
-			"loop": false,
-			"name": "oran idle"
+			"fps": 24,
+			"name": "oran idle",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-40,
-				20
+				0,
+				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singLEFT",
-			"loop": false,
-			"name": "oran left"
+			"fps": 24,
+			"name": "oran left",
+			"indices": []
 		},
 		{
+			"loop": false,
 			"offsets": [
-				-4,
-				13
+				26,
+				4
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singRIGHT",
-			"loop": false,
-			"name": "oran right"
+			"fps": 24,
+			"name": "oran right",
+			"indices": []
 		},
 		{
-			"offsets": [
-				-27,
-				15
-			],
-			"indices": [],
-			"fps": 24,
-			"anim": "singUP",
 			"loop": false,
-			"name": "oran up"
-		},
-		{
 			"offsets": [
-				-25,
-				16
+				0,
+				0
 			],
-			"indices": [],
-			"fps": 24,
 			"anim": "singDOWN",
+			"fps": 24,
+			"name": "oran down",
+			"indices": []
+		},
+		{
 			"loop": false,
-			"name": "oran down"
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "oran up",
+			"indices": []
 		}
 	],
 	"no_antialiasing": false,
-	"image": "characters/oran_assets",
+	"image": "characters/oran",
 	"position": [
-		-280,
-		-40
+		-220,
+		0
 	],
-	"healthicon": "",
+	"healthicon": "mom",
 	"flip_x": false,
 	"healthbar_colors": [
-		96,
-		0,
-		0
+		216,
+		85,
+		142
 	],
 	"camera_position": [
 		0,
 		0
 	],
 	"sing_duration": 4,
-	"scale": 0.8
+	"scale": 1
 }
