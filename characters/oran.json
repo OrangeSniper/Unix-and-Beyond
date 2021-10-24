@@ -1,59 +1,59 @@
 {
 	"animations": [
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "idle",
-			"fps": 24,
-			"name": "oran idle",
-			"indices": []
+			"indices": [],
+			"name": "oran idle"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singLEFT",
+			"loop": false,
 			"fps": 24,
-			"name": "oran left",
-			"indices": []
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "oran left"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				26,
 				4
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singRIGHT",
-			"fps": 24,
-			"name": "oran right",
-			"indices": []
+			"indices": [],
+			"name": "oran right"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
+			"loop": false,
+			"fps": 24,
 			"anim": "singDOWN",
-			"fps": 24,
-			"name": "oran down",
-			"indices": []
+			"indices": [],
+			"name": "oran down"
 		},
 		{
-			"loop": false,
 			"offsets": [
 				0,
 				0
 			],
-			"anim": "singUP",
+			"loop": false,
 			"fps": 24,
-			"name": "oran up",
-			"indices": []
+			"anim": "singUP",
+			"indices": [],
+			"name": "oran up"
 		}
 	],
 	"no_antialiasing": false,
@@ -62,12 +62,12 @@
 		-220,
 		0
 	],
-	"healthicon": "mom",
+	"healthicon": "oran",
 	"flip_x": false,
 	"healthbar_colors": [
-		216,
-		85,
-		142
+		255,
+		191,
+		0
 	],
 	"camera_position": [
 		0,
