@@ -1,14 +1,33 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<TextureAtlas imagePath="Menu_cynder.png">
+<TextureAtlas imagePath="menu_cynder.png">
 	<!-- Created with Adobe Animate version 21.0.1.37179 -->
 	<!-- http://www.adobe.com/products/animate.html -->
-	<SubTexture name="cynder menu0000" x="0" y="0" width="987" height="969" frameX="0" frameY="-14" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0001" x="987" y="0" width="987" height="969" frameX="0" frameY="-14" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0002" x="1974" y="0" width="977" height="975" frameX="-5" frameY="-8" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0003" x="2951" y="0" width="977" height="975" frameX="-5" frameY="-8" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0004" x="0" y="975" width="966" height="978" frameX="-11" frameY="-5" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0005" x="966" y="975" width="966" height="978" frameX="-11" frameY="-5" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0006" x="1932" y="975" width="954" height="982" frameX="-17" frameY="-1" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0007" x="2886" y="975" width="949" height="983" frameX="-19" frameY="0" frameWidth="987" frameHeight="983"/>
-	<SubTexture name="cynder menu0008" x="0" y="1958" width="949" height="983" frameX="-19" frameY="0" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder down0000" x="0" y="0" width="959" height="973" frameX="-7" frameY="0" frameWidth="978" frameHeight="973"/>
+	<SubTexture name="cynder down0001" x="959" y="0" width="959" height="973" frameX="-7" frameY="0" frameWidth="978" frameHeight="973"/>
+	<SubTexture name="cynder down0002" x="1918" y="0" width="978" height="972" frameX="0" frameY="-1" frameWidth="978" frameHeight="973"/>
+	<SubTexture name="cynder down0003" x="2896" y="0" width="978" height="972" frameX="0" frameY="-1" frameWidth="978" frameHeight="973"/>
+	<SubTexture name="cynder idle0000" x="3874" y="0" width="987" height="969" frameX="0" frameY="-14" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0001" x="4861" y="0" width="987" height="969" frameX="0" frameY="-14" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0002" x="5848" y="0" width="977" height="975" frameX="-5" frameY="-8" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0003" x="6825" y="0" width="977" height="975" frameX="-5" frameY="-8" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0004" x="0" y="975" width="966" height="978" frameX="-11" frameY="-5" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0005" x="966" y="975" width="966" height="978" frameX="-11" frameY="-5" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0006" x="1932" y="975" width="954" height="982" frameX="-17" frameY="-1" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0007" x="2886" y="975" width="949" height="983" frameX="-19" frameY="0" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder idle0008" x="3835" y="975" width="949" height="983" frameX="-19" frameY="0" frameWidth="987" frameHeight="983"/>
+	<SubTexture name="cynder left0000" x="4784" y="975" width="1093" height="1002"/>
+	<SubTexture name="cynder left0001" x="5877" y="975" width="1093" height="1002"/>
+	<SubTexture name="cynder left0002" x="6970" y="975" width="1074" height="996" frameX="-10" frameY="-6" frameWidth="1093" frameHeight="1002"/>
+	<SubTexture name="cynder left0003" x="0" y="1977" width="1074" height="996" frameX="-10" frameY="-6" frameWidth="1093" frameHeight="1002"/>
+	<SubTexture name="cynder left0004" x="1074" y="1977" width="1074" height="996" frameX="-10" frameY="-6" frameWidth="1093" frameHeight="1002"/>
+	<SubTexture name="cynder right0000" x="2148" y="1977" width="945" height="997" frameX="-38" frameY="0" frameWidth="1021" frameHeight="997"/>
+	<SubTexture name="cynder right0001" x="3093" y="1977" width="945" height="997" frameX="-38" frameY="0" frameWidth="1021" frameHeight="997"/>
+	<SubTexture name="cynder right0002" x="4038" y="1977" width="1021" height="990" frameX="0" frameY="-7" frameWidth="1021" frameHeight="997"/>
+	<SubTexture name="cynder right0003" x="5059" y="1977" width="1021" height="990" frameX="0" frameY="-7" frameWidth="1021" frameHeight="997"/>
+	<SubTexture name="cynder right0004" x="6080" y="1977" width="945" height="997" frameX="-38" frameY="0" frameWidth="1021" frameHeight="997"/>
+	<SubTexture name="cynder up0000" x="7025" y="1977" width="926" height="1004" frameX="-9" frameY="-5" frameWidth="948" frameHeight="1009"/>
+	<SubTexture name="cynder up0001" x="0" y="2981" width="926" height="1004" frameX="-9" frameY="-5" frameWidth="948" frameHeight="1009"/>
+	<SubTexture name="cynder up0002" x="926" y="2981" width="948" height="1009"/>
+	<SubTexture name="cynder up0003" x="1874" y="2981" width="948" height="1009"/>
+	<SubTexture name="cynder up0004" x="2822" y="2981" width="948" height="1009"/>
 </TextureAtlas>
