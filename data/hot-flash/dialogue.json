@@ -1,0 +1,74 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "cynder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Well done- I forgot to ask for y'all's names. I am so sorry..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Boyfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "And I'm Girlfriend"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cynder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Hello Boyfriend and Girlfriend, are you guys new to Unix?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Apparently, I've never been here"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "And Bf follows me everywhere, so he hasn't either"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cynder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Seems about right"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "cynder",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ready your song, it's your turn to play"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "bobeep!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "He says he's ready"
+		}
+	]
+}

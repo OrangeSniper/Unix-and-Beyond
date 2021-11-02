@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cynder_dialogue.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="cynder talk normal0000" x="0" y="0" width="949" height="994"/>
+	<SubTexture name="cynder talk normal0001" x="0" y="0" width="949" height="994"/>
+	<SubTexture name="cynder talk normal0002" x="949" y="0" width="949" height="983" frameX="0" frameY="-11" frameWidth="949" frameHeight="994"/>
+	<SubTexture name="cynder talk normal0003" x="949" y="0" width="949" height="983" frameX="0" frameY="-11" frameWidth="949" frameHeight="994"/>
+</TextureAtlas>
